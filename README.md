@@ -1,7 +1,4 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f7GZ9Y4boifRmBa9Hj/giphy.gif" width="100"/>
@@ -18,3 +15,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=phducanh&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
